@@ -1,0 +1,19 @@
+/* Project Name: E-Portfolio
+   File Name: app.css
+   Name: Vyoma Shukla
+   Student id: 300989164 */
+
+/* custom css*/
+
+body {
+    background-image: url("/public/Assets/images/Back.jpg");
+  }
+
+h1 {
+    color: rgb(29, 10, 133);
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+ 
